@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!--Giphy Animation-->
 <div id="header" align="center" > 
-  <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" height=200 width="350"/>
+  <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" height=auto width=100%/>
 </div>
 
 
