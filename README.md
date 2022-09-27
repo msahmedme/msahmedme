@@ -2,7 +2,7 @@
 ## Hi there 👋, I, Mohammad Sabbir Ahmed, a software engineer working in Dhaka, Bangladesh
 
 <div align="left"> 
- 
+ <!--Add virtual judge badges-->
 </div>
   
 <!--
@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 
 <!--Giphy Animation-->
-<div id="header" align="center"> 
-  <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="100"/>
+<div id="header" align="center" > 
+  <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" height=200 width="350"/>
 </div>
 
 
