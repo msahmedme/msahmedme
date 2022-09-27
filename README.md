@@ -10,7 +10,7 @@
 **msahmedme/msahmedme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Tutorial: https://www.sitepoint.com/github-profile-readme/
+<!--Tutorial: https://www.sitepoint.com/github-profile-readme/-->
 
 
 Here are some ideas to get you started:
