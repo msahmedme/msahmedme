@@ -49,23 +49,26 @@ Here are some ideas to get you started:
 ### Connect with me
 
 <div id="badges">
+
+  <a href="https://www.linkedin.com/in/msahmedme/">
+    <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height=28>
+  </a>
   
   <a href="mailto:smsabbirahmedse.me@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge" height=28>
   </a>
   
-  <a href="https://www.linkedin.com/in/msahmedme/">
-    <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height=28>
+  <a href="https://www.facebook.com/msabbirahmedse/">
+    <img src="https://shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge" height=28>
   </a>
   
   <a href="https://medium.com/@msahmedme">
     <img src="https://shields.io/badge/Medium-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge" height=28>
   </a>
   
-  <a href="https://www.facebook.com/msabbirahmedse/">
-    <img src="https://shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge" height=28>
+  <a href="https://twitter.com/msabbirahmedme">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=28>
   </a>
-
 
   
  </div>
