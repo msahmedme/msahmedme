@@ -5,7 +5,8 @@
  ## Hi there 👋, I, Mohammad Sabbir Ahmed, a software engineer working in Dhaka, Bangladesh
 
 <div align=right>
- <a href="https://www.dropbox.com/s/omidlzc0knr5hsg/Mohammad%20Sabbir%20Ahmed%27s%20Resume.pdf?dl=0" align="right">
+<!-- <a href="https://www.dropbox.com/s/omidlzc0knr5hsg/Mohammad%20Sabbir%20Ahmed%27s%20Resume.pdf?dl=0" align="right"> -->
+<a href="https://github.com/msahmedme/msahmedme/raw/main/data/Mohammad%20Sabbir%20Ahmed's%20Resume.pdf" align="right">
   <img src="https://img.shields.io/badge/Download-MyCV-green" alt="Download My CV Badge" height=28>
  </a>
 </div>
