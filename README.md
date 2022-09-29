@@ -4,10 +4,15 @@
 
  ## Hi there 👋, I, Mohammad Sabbir Ahmed, a software engineer working in Dhaka, Bangladesh
 
-<div align=right>
-<!-- <a href="https://www.dropbox.com/s/omidlzc0knr5hsg/Mohammad%20Sabbir%20Ahmed%27s%20Resume.pdf?dl=0" align="right"> -->
-<a href="https://github.com/msahmedme/msahmedme/raw/main/data/Mohammad%20Sabbir%20Ahmed's%20Resume.pdf" align="right">
-  <img src="https://img.shields.io/badge/Download-MyCV-green" alt="Download My CV Badge" height=28>
+
+<!-- Profile View Counter -->
+<a href="#" align="left">
+  <img src="https://gpvc.arturio.dev/msahmedme" alt="Number Profile Visitor's" height=28>
+</a>
+
+<!-- CV Download Button-->
+<a href="https://github.com/msahmedme/msahmedme/raw/main/data/Mohammad%20Sabbir%20Ahmed's%20Resume.pdf">
+  <img src="https://img.shields.io/badge/Download-MyCV-Green" alt="Download My CV Badge" height=28 align="right">
  </a>
 </div>
 
@@ -15,8 +20,6 @@
  <!--Add virtual judge badges-->
 </div>
   
-<!--
-
 **msahmedme/msahmedme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -71,5 +74,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=28>
   </a>
 
-  
+
+<!-- Github activitiy graph -->
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=msahmedme&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+ 
  </div>
