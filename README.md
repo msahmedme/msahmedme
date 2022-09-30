@@ -26,17 +26,7 @@
 <!--Tutorial: https://www.sitepoint.com/github-profile-readme/-->
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <!--Giphy Animation-->
@@ -44,14 +34,13 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" height=auto width=100%/>
 </div>
 
-
-<details>
+<!-- <details>  -->
      
-  <summary>:zap: Most Used Languages</summary>
+<!--  <summary>:zap: Most Used Languages</summary> -->
   <br />
   <img  alt="Top Languages used by Mohammad Sabbir Ahmed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msahmedme&theme=radical" />
 
-</details>
+<!-- </details> -->
 
 
 
