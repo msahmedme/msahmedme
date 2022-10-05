@@ -14,7 +14,8 @@
 <a href="https://github.com/msahmedme/msahmedme/raw/main/data/Mohammad%20Sabbir%20Ahmed's%20Resume.pdf">
   <img src="https://img.shields.io/badge/Download-MyCV-Green" alt="Download My CV Badge" height=28 align="right">
  </a>
-</div>
+
+
 
 <div align="left"> 
  <!--Add virtual judge badges-->
