@@ -51,7 +51,7 @@
 <div id="badges">
 
   <a href="https://www.linkedin.com/in/msahmedme/" target="_blank">
-    <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height=28>
+    <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height=28  target="_blank">
   </a>
   
   <a href="mailto:smsabbirahmedse.me@gmail.com" target="_blank">
