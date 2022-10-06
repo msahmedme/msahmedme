@@ -48,9 +48,9 @@
 <!--Social Links-->
 ### Connect with me
 
-<div id="badges" style="align:center">
+<div id="badges" style="align:cent;">
 
-  <a href="https://www.linkedin.com/in/msahmedme/" target="_blank">
+  <a href="https://www.linkedin.com/in/msahmedme/" target="_blank" style="align:cent;">
     <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height=28  target="_blank">
   </a>
   
