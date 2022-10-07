@@ -94,6 +94,10 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
+    <!-- jQuery-icon -->
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/> 
+    </a> 
     <!-- Arduino-icon -->
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
