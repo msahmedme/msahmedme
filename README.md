@@ -44,8 +44,12 @@
 <!-- </details> -->
 
 
-<p align="left"> 
 
+<!-- ############################################################################################################################ -->
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
     <!-- C-icon -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -96,6 +100,9 @@
     </a> 
 
 </p>
+
+<!-- ############################################################################################################################ -->
+
 
 <!--Social Links-->
 ### Connect with me
