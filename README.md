@@ -40,18 +40,21 @@
   <br />
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=msahmedme&show_icons=true&theme=radical" height=138 width=auto />
+   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=msahmedme&show_icons=true&theme=radical" height=200 width=auto />
 </a>
 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/">
-     <img  alt="Top Languages used by Mohammad Sabbir Ahmed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msahmedme&theme=radical&layout=compact" align="center" height=138 width=auto />
+     <img  alt="Top Languages used by Mohammad Sabbir Ahmed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msahmedme&theme=radical&layout=compact" align="center" height=200 width=auto />
   </a>
 
 <a href="https://github-readme-streak-stats.herokuapp.com">
-  <img align="center"  alt="Github streak "src="https://github-readme-streak-stats.herokuapp.com/?user=msahmedme&theme=radical" height=138 width=auto/>
+  <img align="center"  alt="Github streak "src="https://github-readme-streak-stats.herokuapp.com/?user=msahmedme&theme=radical" height=200 width=auto/>
  </a>
 <!-- </details> -->
 
+<a href="https://wakatime.com/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=msahmedwaka&theme=radical" height=200 width=auto>
+</a>
 
 
 <!-- ############################################################################################################################ -->
@@ -116,7 +119,7 @@
 
 <!-- ############################################################################################################################ -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=msahmedwaka&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=msahmedme&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
