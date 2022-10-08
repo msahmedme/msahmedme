@@ -36,7 +36,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Weapons:</h3>
 <p align="left"> 
     <!-- C-icon -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
