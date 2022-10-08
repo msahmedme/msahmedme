@@ -150,7 +150,7 @@
 
 
 <a href="https://github.com/ryo-ma/github-profile-trophy)">
-   <img alt="github trophy" src="https://github-profile-trophy.vercel.app/?username=msahmedme&theme=radical" width=1002 height=auto/>
+   <img alt="github trophy" src="https://github-profile-trophy.vercel.app/?username=msahmedme&color=D3DBFF&theme=radical" width=1002 height=auto/>
  </a>
 
 
