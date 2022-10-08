@@ -98,9 +98,6 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=msahmedme&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <!-- ############################################################################################################################ -->
 
 <!--Social Links-->
@@ -108,47 +105,58 @@
 
 ### Connect with me
 
-<div>
-  
-  <a href="https://www.linkedin.com/in/msahmedme/" target="_blank">
-    <img align="center" src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height=28  target="_blank">
+<div id="badges" align = "center">
+  <a href="https://www.linkedin.com/in/msahmedme/">
+    <img align="center" src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height=28 width=auto>
   </a>
   
-  <a href="mailto:smsabbirahmedse.me@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge" height=28>
+  <a href="mailto:smsabbirahmedse.me@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge" height=28 width=auto>
   </a>
   
-  <a href="https://www.facebook.com/msabbirahmedse/" target="_blank">
-    <img align="center" src="https://shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge" height=28>
+  <a href="https://www.facebook.com/msabbirahmedse/">
+    <img align="center" src="https://shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge" height=28 width=auto>
   </a>
   
-  <a href="https://medium.com/@msahmedme" target="_blank">
-    <img align="center" src="https://shields.io/badge/Medium-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge" height=28>
+  <a href="https://medium.com/@msahmedme">
+    <img align="center" src="https://shields.io/badge/Medium-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge" height=28 width=auto>
   </a>
   
-  <a href="https://twitter.com/msabbirahmedme" target="_blank">
+  <a href="https://twitter.com/msabbirahmedme">
     <img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=28>
   </a>
-
 </div>
+<br>
+
+
 <!-- ############################################################################################################################ -->
 
 <!--   <h3>My Cards</h3> -->
 <!--  <summary>:zap: Most Used Languages</summary> -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="#">
      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=msahmedme&show_icons=true&theme=radical" height=138 width=auto />
   </a>
+  
   <a href="https://github-readme-stats.vercel.app/api/top-langs/">
      <img  alt="Top Languages used by Mohammad Sabbir Ahmed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msahmedme&theme=radical&layout=compact" align="center" height=138 width=auto />
   </a>
 
   <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img align="center"  alt="Github streak "src="https://github-readme-streak-stats.herokuapp.com/?user=msahmedme&theme=radical" height=138 width=auto/>
+    <img align="center"  alt="Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=msahmedme&theme=radical" height=138 width=auto/>
   </a>
   
 <!-- ############################################################################################################################ -->
 
- 
+
+
+<a href="https://github.com/ryo-ma/github-profile-trophy)">
+   <img alt="github trophy" src="https://github-profile-trophy.vercel.app/?username=msahmedme&theme=radical" width=1002 height=auto/>
+ </a>
+
+
+<!-- ############################################################################################################################ -->
+
+
 <!-- Github activitiy graph -->
  <!-- ## My activity graph! -->
  <br><br>
