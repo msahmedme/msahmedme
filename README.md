@@ -34,9 +34,10 @@
   <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" height=auto width=100%/>
 </div>
 
+<!-- ############################################################################################################################ -->
 
 
-<h3 align="left">My Weapons:</h3>
+## My Weapons!
 <p align="left"> 
     <!-- C-icon -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
@@ -93,17 +94,10 @@
 
 </p>
 
-<!-- ############################################################################################################################ -->
-
-
-
 
 <!-- ############################################################################################################################ -->
 
-<!--Social Links-->
-
-
-### Connect with me
+## Connect with me
 
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/msahmedme/">
@@ -131,7 +125,7 @@
 
 <!-- ############################################################################################################################ -->
 
-<!--   <h3>My Cards</h3> -->
+## My Cards
 <!--  <summary>:zap: Most Used Languages</summary> -->
   <a href="#">
      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=msahmedme&show_icons=true&theme=radical" height=138 width=auto />
@@ -146,20 +140,15 @@
   </a>
   
 <!-- ############################################################################################################################ -->
-
-
-
+## My Github Trophies!
 <a href="https://github.com/ryo-ma/github-profile-trophy)">
-   <img alt="github trophy" src="https://github-profile-trophy.vercel.app/?username=msahmedme&color=D3DBFF&theme=radical" width=1002 height=auto/>
+   <img alt="github trophy" src="https://github-profile-trophy.vercel.app/?username=msahmedme&theme=radical" width=1002 height=auto/>
  </a>
-
 
 <!-- ############################################################################################################################ -->
 
-
 <!-- Github activitiy graph -->
  ## My activity graph!
-
 <a>
   <img src="https://activity-graph.herokuapp.com/graph?username=msahmedme&bg_color=16213E&color=D3DBFF&line=533483&point=FEB139&area=true&hide_border=false" alt="Github Activity Graph" />
  </a>
