@@ -1,20 +1,29 @@
 
+<!-- My Banner -->
 
-<!--CV Download button-->
+<a src="https://github.com/msahmedme">
+  <img src="https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/276153283_1393023527813124_4821094672048273153_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=uuFCZo5ARVgAX9t5eFP&tn=5bg66K8nR_ISHEwW&_nc_ht=scontent.fdac99-1.fna&oh=00_AT9gMF9y1y6wsDMz780uW3Nj8L3CVaLeR9xaiOzrwhYFSg&oe=63463A43"/>
+</a
 
- ## Hi there 👋, I, Mohammad Sabbir Ahmed, a software engineer working in Dhaka, Bangladesh
+ 
+ <!-- ############################################################################################################################ -->
 
+<!--Profile View Counter & CV Download button-->
 
-<!-- Profile View Counter -->
-<a href="#" align="left">
-  <img src="https://gpvc.arturio.dev/msahmedme" alt="Number Profile Visitor's" height=28>
-</a>
+<p>
+   <!--Profile View Counter-->
+   <a href="#" align="left">
+     <img src="https://gpvc.arturio.dev/msahmedme" alt="Number Profile Visitor's" height=28>
+   </a>
+   <!-- CV Download Button-->
+   <a href="https://github.com/msahmedme/msahmedme/raw/main/data/Mohammad%20Sabbir%20Ahmed's%20Resume.pdf" target="_blank">
+     <img src="https://img.shields.io/badge/Download-MyCV-Green" alt="Download My CV Badge" height=28  align="right">
+   </a>
+</p>
+ 
 
-<!-- CV Download Button-->
-<a href="https://github.com/msahmedme/msahmedme/raw/main/data/Mohammad%20Sabbir%20Ahmed's%20Resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Download-MyCV-Green" alt="Download My CV Badge" height=28 align="right">
- </a>
-
+ 
+ <!-- ############################################################################################################################ -->
 
 <div align="left"> 
  <!--Add virtual judge badges-->
@@ -27,14 +36,11 @@
 
 <!-- ############################################################################################################################ -->
 
-<a src="https://github.com/msahmedme">
-  <img src="https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/276153283_1393023527813124_4821094672048273153_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=uuFCZo5ARVgAX9t5eFP&tn=5bg66K8nR_ISHEwW&_nc_ht=scontent.fdac99-1.fna&oh=00_AT9gMF9y1y6wsDMz780uW3Nj8L3CVaLeR9xaiOzrwhYFSg&oe=63463A43"/>
-</a
 
 <!--  <!--Giphy Animation-->
-<div id="header" align="center" > 
-  <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" height=auto width=100%/>
-</div> -->
+<!-- <div id="header" align="center" >  -->
+<!--   <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" height=auto width=100%/> -->
+<!-- </div> --> 
 
 <!-- ############################################################################################################################ -->
 
