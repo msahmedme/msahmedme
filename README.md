@@ -20,7 +20,6 @@
      <img src="https://img.shields.io/badge/Download-MyCV-Green" alt="Download My CV Badge" height=28  align="right">
    </a>
 </p>
- 
 
  
  <!-- ############################################################################################################################ -->
@@ -28,8 +27,6 @@
 <div align="left"> 
  <!--Add virtual judge badges-->
 </div>
-  
-**msahmedme/msahmedme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <!--Tutorial: https://www.sitepoint.com/github-profile-readme/-->
