@@ -161,7 +161,7 @@
  ## My activity graph!
 
 <a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=msahmedme&bg_color=16213E&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=false" alt="Github Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=msahmedme&bg_color=16213E&color=D3DBFF&line=533483&point=FEB139&area=true&hide_border=false" alt="Github Activity Graph" />
  </a>
  
  </div>
