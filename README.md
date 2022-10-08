@@ -50,11 +50,6 @@
 <a href="https://github-readme-streak-stats.herokuapp.com">
   <img align="center"  alt="Github streak "src="https://github-readme-streak-stats.herokuapp.com/?user=msahmedme&theme=radical" height=200 width=auto/>
  </a>
-<!-- </details> -->
-
-<a href="https://wakatime.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=msahmedwaka&theme=radical" height=200 width=auto>
-</a>
 
 
 <!-- ############################################################################################################################ -->
