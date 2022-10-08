@@ -116,6 +116,7 @@
 
 <!-- ############################################################################################################################ -->
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=msahmedwaka&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=msahmedme&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
