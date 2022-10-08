@@ -16,7 +16,6 @@
  </a>
 
 
-
 <div align="left"> 
  <!--Add virtual judge badges-->
 </div>
@@ -39,7 +38,14 @@
      
 <!--  <summary>:zap: Most Used Languages</summary> -->
   <br />
-  <img  alt="Top Languages used by Mohammad Sabbir Ahmed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msahmedme&theme=radical" />
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=msahmedme&show_icons=true&theme=radical" height=200 width=auto />
+</a>
+
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/">
+     <img  alt="Top Languages used by Mohammad Sabbir Ahmed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msahmedme&theme=radical&layout=compact" align="center" height=200 width=auto />
+  </a>
 
 <!-- </details> -->
 
