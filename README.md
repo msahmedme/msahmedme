@@ -34,25 +34,6 @@
   <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" height=auto width=100%/>
 </div>
 
-<!-- <details>  -->
-     
-<!--  <summary>:zap: Most Used Languages</summary> -->
-  <br />
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=msahmedme&show_icons=true&theme=radical" height=138 width=auto />
-</a>
-
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/">
-     <img  alt="Top Languages used by Mohammad Sabbir Ahmed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msahmedme&theme=radical&layout=compact" align="center" height=138 width=auto />
-  </a>
-
-<a href="https://github-readme-streak-stats.herokuapp.com">
-  <img align="center"  alt="Github streak "src="https://github-readme-streak-stats.herokuapp.com/?user=msahmedme&theme=radical" height=138 width=auto/>
- </a>
-
-
-<!-- ############################################################################################################################ -->
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -147,6 +128,23 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=28>
   </a>
 
+
+<!-- ############################################################################################################################ -->
+
+<!--   <h3>My Cards</h3> -->
+<!--  <summary>:zap: Most Used Languages</summary> -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=msahmedme&show_icons=true&theme=radical" height=138 width=auto />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/">
+     <img  alt="Top Languages used by Mohammad Sabbir Ahmed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msahmedme&theme=radical&layout=compact" align="center" height=138 width=auto />
+  </a>
+
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+    <img align="center"  alt="Github streak "src="https://github-readme-streak-stats.herokuapp.com/?user=msahmedme&theme=radical" height=138 width=auto/>
+  </a>
+  
+<!-- ############################################################################################################################ -->
 
  
 <!-- Github activitiy graph -->
