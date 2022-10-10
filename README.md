@@ -192,10 +192,10 @@
 ## My Cards
 
 <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=msahmedme&show_icons=true&theme=radical" width=415 height=auto />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=msahmedme&show_icons=true&theme=radical" width=420 height=auto />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img align="center" alt="Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=msahmedme&theme=radical" width=415 height=auto />
+    <img align="center" alt="Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=msahmedme&theme=radical" width=420 height=auto />
 </a>
 
 <!-- ###########################################################################################################-->
