@@ -104,7 +104,7 @@
 <!-- ###########################################################################################################-->
 
 
-## My Weapons!
+#### My Weapons
 <p align="left">
     <!-- C-icon -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
@@ -175,7 +175,7 @@
 
 <!-- ###########################################################################################################-->
 
-## Connect with me
+#### Connect with me
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/msahmedme/">
@@ -200,7 +200,7 @@
 <!-- ###########################################################################################################-->
 
 
-<!-- ## My Cards -->
+<!-- #### My Cards -->
 
 <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=msahmedme&show_icons=true&theme=radical" width=420 height=auto />
@@ -210,7 +210,7 @@
 </a>
 
 <!-- ###########################################################################################################-->
-<!-- ## My Github Trophies! -->
+<!-- #### My Github Trophies! -->
 
 <!--  <summary>:zap: Most Used Languages</summary> -->
 <div>
@@ -228,7 +228,7 @@
 
 
 <!-- Github activitiy graph -->
-## My activity graph!
+#### My activity graph!
 <a>
     <img src="https://activity-graph.herokuapp.com/graph?username=msahmedme&bg_color=16213E&color=D3DBFF&line=533483&point=FEB139&area=true&hide_border=false"
         alt="Github Activity Graph" />
