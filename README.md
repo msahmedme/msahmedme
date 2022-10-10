@@ -55,8 +55,8 @@
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
-- 📫 Reach me: [twitter.com/msahmedme](https://twitter.com/msahmedme)
-- 📝 Checkout my [Resume]("./data/Mohammad Sabbir Ahmed's Resume.pdf").
+<!-- - 📫 Reach me: [twitter.com/msahmedme/](https://twitter.com/) -->
+<!-- - 📝 Checkout my [Resume](https://github.com/msahmedme/msahmedme/blob/main/data/Mohammad%20Sabbir%20Ahmed's%20Resume.pdf). -->
 
 #### My Current Stack
 
