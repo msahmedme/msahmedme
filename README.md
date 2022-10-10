@@ -59,7 +59,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **BRAC IT**
+<!-- - 🏢 I'm currently working at **BRAC IT** -->
 - ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **DevOps**
