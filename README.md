@@ -207,12 +207,12 @@
         <a href="https://github-readme-stats.vercel.app/api/top-langs/">
             <img alt="Top Languages used by Mohammad Sabbir Ahmed"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=msahmedme&theme=radical"
-                width=352 height=auto />
+                width=350 height=auto />
         </a>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img alt="github trophy"
                 src="https://github-profile-trophy.vercel.app/?username=msahmedme&row=2&column=3&theme=radical"
-                width=500 height=auto />
+                width=490500 height=auto />
         </a>
     </p>
 </div>
