@@ -47,11 +47,15 @@
 
 </p>
 
+<!-- ###########################################################################################################-->
+
 #### Now
 
 - ✨ Contributing to [chkware](https://github.com/chkware/cli);
 - :fire: Interested in DevOps and Cloud engineering;
 - :calendar: Looking for contributing to python based open source projects
+- 
+<!-- ###########################################################################################################-->
 
 #### Bio
 
@@ -59,19 +63,25 @@
 - ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **DevOps**
-- 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
+<!-- - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak** -->
 <!-- - 📫 Reach me: [twitter.com/msahmedme/](https://twitter.com/) -->
 <!-- - 📝 Checkout my [Resume](https://github.com/msahmedme/msahmedme/blob/main/data/Mohammad%20Sabbir%20Ahmed's%20Resume.pdf). -->
 
+<!-- ###########################################################################################################-->
+
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg"
-    alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48"
-    src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img
-    height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg"
-    alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48"
-    src="img/react-original.svg" alt="react">
-
+<p>
+    <img height="48" src="img/python-original.svg" alt="python"> 
+    <img height="48" src="img/django-plain-wordmark.svg"alt="Django"> 
+    <img height="48" src="img/postgresql-original.svg" alt="postgress"> 
+    <img height="48" src="img/docker-original.svg" alt="Docker"> 
+    <img height="48" src="img/linux-original.svg" alt="linux"> 
+    <img height="48" src="img/nginx-original.svg" alt="nginx"> 
+    <img height="48" src="img/pytest-original.svg" alt="pytest"> 
+    <img height="48" src="img/git-original.svg" alt="git"> 
+    <img height="48" src="img/react-original.svg" alt="react">
+</p>
 
 
 <!-- ###########################################################################################################-->
@@ -80,6 +90,7 @@
     <!--Add virtual judge badges-->
 </div>
 
+<!-- ###########################################################################################################-->
 
 <!--Tutorial: https://www.sitepoint.com/github-profile-readme/-->
 
