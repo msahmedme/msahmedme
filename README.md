@@ -200,7 +200,7 @@
 <!-- ###########################################################################################################-->
 
 
-## My Cards
+<!-- ## My Cards -->
 
 <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=msahmedme&show_icons=true&theme=radical" width=420 height=auto />
@@ -210,7 +210,7 @@
 </a>
 
 <!-- ###########################################################################################################-->
-## My Github Trophies!
+<!-- ## My Github Trophies! -->
 
 <!--  <summary>:zap: Most Used Languages</summary> -->
 <div>
