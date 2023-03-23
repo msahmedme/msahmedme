@@ -28,7 +28,7 @@
 ## Hi there 👋, I am Mohammad Sabbir Ahmed, working in Dhaka, Bangladesh.
 
 <!-- ###########################################################################################################-->
-
+<!--
 <p align="left">
     <a href="https://leetcode.com/msahmedme/">
         <img src="https://cp-logo.vercel.app/leetcode/msahmedme" alt="Leet code rating" />
@@ -103,7 +103,7 @@
 
 <!-- ###########################################################################################################-->
 
-
+-->
 #### My Weapons
 <p align="left">
     <!-- C-icon -->
