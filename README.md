@@ -16,7 +16,11 @@
         <img src="https://gpvc.arturio.dev/msahmedme" alt="Number Profile Visitor's" height=28>
     </a>
     <!-- CV Download Button-->
-
+        <a href="https://github.com/msahmedme/msahmedme/raw/main/data/Mohammad%20Sabbir%20Ahmed's%20Resume.pdf"
+        target="_blank">
+        <img src="https://img.shields.io/badge/Checkout-MyCV-Green" alt="Download My CV Badge" height=28
+            align="right">
+    </a>
 </p>
 
 <!-- ###########################################################################################################-->
